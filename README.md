@@ -1,5 +1,7 @@
 # bag-ply-converter
 
+![image](test-bag.png)
+
 The team works with 3D camera data.
 The team needs to occasionally convert 3D data from BAG format to PLY.
 Thus a command line tool is needed. The tool should take a path to a BAG file as input, make a conversion, and save it as a PLY file.
