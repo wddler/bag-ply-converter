@@ -6,7 +6,7 @@ class TestConvertion(unittest.TestCase):
 
     def test_convertion_ok(self):
         bag_to_ply("./test.bag")
-        filename = "1.ply"
+        filename = "test.ply"
         result = os.path.isfile(filename)
         self.assertEqual(result, True)
 
