@@ -2,10 +2,12 @@
 
 ![image](test-bag.png)
 
-The team works with 3D camera data.
+You are a part of the RoboHouse Innovation team.
+The team works with 3D camera data for some projects.
 The team needs to occasionally convert 3D data from BAG format to PLY.
 Thus a command line tool is needed. The tool should take a path to a BAG file as input, make a conversion, and save it as a PLY file.
 The tool can be occasionally updated, so a GitHub repository is needed to keep track of changes. Also, the team wants to be able to see how changes affect the code. Thus a pipeline is needed to lint the code and to run tests.
+You are taking this task from Denis, so you can reach out to him.
 
 Requirements:
 
